@@ -102,12 +102,12 @@ Developer Profile:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=m-elramsesy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohamed's GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-elramsesy&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=m-elramsesy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohamed's GitHub Stats" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m-elramsesy&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="170" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-elramsesy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-elramsesy&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
 
 </div>
 
