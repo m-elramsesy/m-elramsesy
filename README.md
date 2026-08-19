@@ -39,10 +39,8 @@ Passionate AI and Computer Vision Engineer specializing in building real-time vi
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **🛡️ UniFace AI Suite** | Real-Time Face Detection, 512-d ArcFace recognition vector DB & Glassmorphic Streamlit Dashboard. | `Python` `ArcFace` `RetinaFace` `SQLite` `Streamlit` | [View Repo](https://github.com/m-elramsesy/uniface) |
 | **✋ Hand Controller** | MediaPipe-powered gesture recognition engine for real-time computer vision control. | `Python` `MediaPipe` `OpenCV` | [View Repo](https://github.com/m-elramsesy/Hand-Controller) |
 | **🔐 Access Control Gesture** | Web-based security access gate utilizing real-time webcam gesture analysis. | `JavaScript` `HTML5` `OpenCV` `Vercel` | [View Repo](https://github.com/m-elramsesy/access-control-gesture) |
-| **🧠 myRAG Engine** | Retrieval-Augmented Generation pipeline using ChromaDB vector search and custom embeddings. | `Python` `ChromaDB` `LLM` `Jupyter` | [View Repo](https://github.com/m-elramsesy/myRAG) |
 
 ---
 
